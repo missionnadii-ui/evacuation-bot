@@ -1,0 +1,8 @@
+app = "misia-podykh-nadii-bot"
+primary_region = "waw"
+
+[build]
+  builder = "DOCKERFILE"
+
+[env]
+  PORT = "8080"
