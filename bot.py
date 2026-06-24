@@ -27,7 +27,7 @@ TOKEN = os.environ.get('BOT_TOKEN', '')
     # Путьовий лист
     TR_CAR, TR_DRIVER, TR_DATE, TR_TIME_OUT, TR_TIME_IN,
     TR_ROUTE, TR_ODO_START, TR_ODO_END, TR_FUEL, TR_NOTES, TR_CONFIRM
-) = range(22)
+) = range(23)
 
 CARS = ["🔵 VW T5 Синій (МІС ВУ82)", "⬜ VW T5 Білий"]
 DRIVERS = ["Савченко Влад", "Ткаченко Олег"]
